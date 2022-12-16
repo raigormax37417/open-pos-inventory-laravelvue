@@ -22,7 +22,7 @@
                             <div class="col-md-1"></div>
                             <div class="col-md-10">
                                 <br>
-                                <h3 style="text-align: center" class="text-muted">Reset Password</h3>
+                                <h3 style="text-align: center" class="text-muted">Restablecer el Password</h3>
                                 <br>
                                 <br>
                                 <label for="email" class="text-muted" style="font-family:Tahoma">E-mail</label>
@@ -40,7 +40,7 @@
                             <div class="col-md-1"></div>
                             <div class="col-md-10" style="text-align: center">
                                 <button type="submit" class="btn btn-outline-secondary btn-lg">
-                                    {{ __('Send Password Reset Link') }}
+                                    {{ __('Enviar enlace de restablecimiento de contraseña') }}
                                 </button>
                             </div>
                         </div>
