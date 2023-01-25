@@ -1448,6 +1448,7 @@ tr:hover {
     background-color: #f2f3f4;
     letter-spacing: 1px;
     font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid #005691;
 }
 
 .info-box:hover {

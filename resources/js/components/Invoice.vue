@@ -78,12 +78,12 @@
                     :variant="vars(returnvalue.orderno)" v-if="serial !== ''">
                     <table class="table">
                         <thead>
-                            <th><small>serie no</small></th>
-                            <th><small>nombre</small></th>
-                            <th><small>descripcion</small></th>
-                            <th><small>precio</small></th>
-                            <th><small>petsa</small></th>
-                            <th><small>pedido no</small></th>
+                            <th><small>Serie No</small></th>
+                            <th><small>Nombre</small></th>
+                            <th><small>Descripción</small></th>
+                            <th><small>Precio</small></th>
+                            <th><small>Petsa</small></th>
+                            <th><small>Pedido No</small></th>
                         </thead>
                         <tbody>
                             <tr>

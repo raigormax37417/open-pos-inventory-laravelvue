@@ -5,7 +5,7 @@
             <div class="modal-dialog modal-xl" role="document">
                 <div class="modal-content">
                     <div class="modal-header">
-                        <h5 class="modal-title" v-show="!editmode">Agregar una nueva compuitadora portatil</h5>
+                        <h5 class="modal-title" v-show="!editmode">Agregar un nuevo producto</h5>
                         <h5 class="modal-title" v-show="editmode">Editar producto</h5>
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                             <span aria-hidden="true">&times;</span>
@@ -78,7 +78,7 @@
                                 <has-error :form="form" field="updateReason"></has-error>
                             </b-form-group>
 
-                            {{ form }}
+                            <!-- {{ form }} -->
 
                             <!-- <b-form-group
                         label="Serial Number"
